@@ -1,2 +1,6 @@
 # Predective_Maintainence
-This is my practice project that uses  random forest classifier  to predict   machine failure. I have also tried integrating flask as well streamlit into this project
+This project employs a Random Forest classifier to predict machine failure, enhancing operational efficiency and minimizing downtime. It integrates Flask and Streamlit to provide a user-friendly interface for data upload and prediction visualization. This combination showcases the practical application of predictive maintenance, empowering users to make informed decisions based on model insights.
+
+
+
+
